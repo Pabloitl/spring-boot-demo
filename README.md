@@ -10,7 +10,7 @@ With parameters:
 ```json
 {
   "name": "name",
-  "age": 00,
+  "age": 11,
   "residence": "residence"
 }
 ```
